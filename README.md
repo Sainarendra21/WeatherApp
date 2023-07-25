@@ -1,10 +1,8 @@
 # WeatherApp
 
-Project Description for GitHub:
 
 **WeatherForecast Website**
 
-![WeatherForecast Website](https://your-website-url.com/screenshot.png)
 
 **Description:**
 
@@ -46,9 +44,7 @@ The WeatherForecast website is a user-friendly and interactive platform that pro
 - CSS3: For styling and design elements to create an aesthetically pleasing interface.
 - JavaScript: For implementing interactivity and fetching weather data from the weather API.
 
-**API Used:**
 
-The WeatherForecast website uses the [Weather API](https://your-weather-api-url.com) to fetch real-time weather data for various locations.
 
 **Contribution:**
 
@@ -61,9 +57,5 @@ We would like to express our gratitude to the developers of the Weather API for 
 **Disclaimer:**
 
 Please note that the WeatherForecast website relies on a third-party weather API for data retrieval. While efforts are made to ensure the accuracy of the information, we cannot guarantee its absolute correctness. Users are encouraged to cross-reference weather data from multiple sources for critical decisions.
-
-**License:**
-
-This project is licensed under the [MIT License](https://your-license-url.com), granting everyone the freedom to use, modify, and distribute the code for both personal and commercial purposes.
 
 Enjoy using the WeatherForecast website, and stay prepared for any weather conditions!
